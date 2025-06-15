@@ -46,11 +46,11 @@ In het *Provinciaal Programma Energiestrategie 2024* (PPES 2024) van de provinci
 - Denk aan begrippen als: energie-infrastructuur, netcapaciteit, hoofdinfrastructuur, energienetwerk, meekoppelkansen, windturbine.
 - Opdrachtbeschrijving:  [groep3-infrastructuur.md](groep3-infrastructuur.md)
 
-### Groep 4: Meekoppelkansen
+### Groep 4: Meekoppelkansen bij energieprojecten
 - Onderzoek hoe ruimtelijke projecten gecombineerd kunnen worden met energieprojecten.
 - Denk aan begrippen als: meekoppelkansen, netcapaciteit, energie-infrastructuur, zonneladder, windladder, windturbine.
 - Opdrachtbeschrijving:  [groep4-energiesysteem.md](groep4-energiesysteem.md)
-- 
+  
 ### Groep 5: Vergunningverlening en beleidsafwegingen
 - Richt je op het proces van vergunningverlening voor nieuwe energie-initiatieven.
 - Denk aan begrippen als: vergunningverlening, beleidsafweging, energiesysteem, zonneladder, windladder, windturbine.
