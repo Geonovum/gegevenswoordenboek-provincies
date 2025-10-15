@@ -12,7 +12,7 @@ Jullie werken aan een toelichting op hoe windenergieprojecten worden beoordeeld 
    - Windinitiatieven
    - Meekoppelkansen
    - Windturbine (technische en beleidsmatige definitie)
-3. Noteer in `requirements.md`:
+3. Noteer in een requirements-document:
    - Waar liepen jullie tegenaan bij het definiëren en gebruiken van begrippen?
    - Wat zou het platform moeten kunnen om jullie te ondersteunen?
    - Welke functies zouden voor zowel de begrippenbeheerder als -gebruiker nuttig zijn?
